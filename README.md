@@ -1,2 +1,1 @@
-# neural_networking
-networks from scratch
+# Network Components From Scratch
